@@ -1,0 +1,82 @@
+Matrix m3 is a:
+4x3 matrix
+0.5 1.0 0.0
+1.0 0.5 0.0
+0.0 0.5 1.25
+0.5 0.5 0.75
+
+Matrix m4 is a:
+3x3 matrix
+1.0 1.0 0.0
+1.0 0.0 1.0
+0.0 0.0 1.0
+
+	Testing equals
+	Test 1. Pass
+
+	Testing equals
+	Test 2. Pass
+
+Matrix m3t is a:
+3x4 matrix
+0.5 1.0 0.0 0.5
+1.0 0.5 0.5 0.5
+0.0 0.0 1.25 0.75
+
+	Testing transpose
+	Test 3. Pass
+
+Matrix m1 is a:
+3x4 matrix
+1.25 0.5 0.5 1.25
+0.5 1.25 0.5 1.5
+1.25 1.5 0.25 1.25
+
+Matrix m2 is a:
+4x5 matrix
+0.0 1.0 0.0 0.0 1.0
+1.0 0.0 1.0 1.0 1.0
+0.0 1.0 1.0 1.0 0.0
+1.0 1.0 0.0 1.0 1.0
+
+	Testing file
+	Test 4. Pass
+
+Matrix m6 is a:
+3x4 matrix
+2.5 1.0 1.0 2.5
+1.0 2.5 1.0 3.0
+2.5 3.0 0.5 2.5
+
+	Testing add
+	Test 5. Pass
+
+	Testing mult(double)
+	Test 6. Pass
+
+Matrix m8 is a:
+3x4 matrix
+0.25 0.5 0.5 0.25
+0.5 3.25 0.5 3.5
+3.25 0.5 0.25 3.25
+
+	Testing add
+	Test 7. Pass
+
+Matrix m11 is a:
+3x3 matrix
+1.75 2.375 1.5625
+2.25 2.125 1.75
+2.75 2.75 1.25
+
+	Testing mult(Matrix)
+	Test 8. Pass
+
+Matrix m14 is a:
+3x2 matrix
+0.75 0.875
+1.5 0.875
+1.9375 0.6875
+
+	Testing mult(Matrix)
+	Test 9. Pass
